@@ -19,7 +19,7 @@ Dataset yang kami kumpulkan dari open source:
 | `news_article` | 600 teks (20%) | - | Wikidepia/CC-News-ID (GitHub), CLICK-ID (Hugging Face) | |
 | `social_media_comment` | 600 teks (20%) | - | EmoT (Hugging Face), Twitter, Reddit | |
 | `opinion_essay` | 600 teks (20%) | - | Blog posts, Medium Indonesia |
-| `qa_pair` | 450 teks (15%) | 450 teks | Quora Indonesia | [Dataset review](datasets/Dataset Qna  - Sheet1.csv)
+| `qa_pair` | 450 teks (15%) | 450 teks | Quora Indonesia | [Dataset review](datasets/Dataset Qna-Sheet1.csv)
 | `review` | 450 teks (15%) | 500 teks | Review Aplikasi di Play Store (Shopee, Tokopedia, Gojek, Grab, DANA) | [Dataset review](datasets/Dataset-ReviewPlayStore.csv)
 | `formal_document` | 150 teks (5%) | - | Wikipedia dump, LibriVox Indonesia |
 | `narrative_story` | 150 teks (5%) | - | CC-News-ID (Wikidepia) |
