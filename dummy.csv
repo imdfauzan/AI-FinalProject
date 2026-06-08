@@ -1,0 +1,13 @@
+object_id,text,text_type,label,ai_model
+formal_2b8cacef,"LAMPIRAN PELATURAN MENTERI...",document,ai,gpt
+formal_8ed1988f,"Berdasarkan pada Undang-Undang Nomor 7 Tahun 2017...",document,human,human
+qna1,Apakah ada gen Z yang bermain quora ?,qna,human,human
+qna2,"salam kenal amanda 👋🏻 saya juga gen z disini hehe",qna,human,human
+qna2,"Apa penyakit yang membuat Indonesia tidak maju?",qna,human,human
+qna3,"Aku nggak suka bahasanya sopan bangeeeet",qna,human,human
+1,saya sungguh kecewa dengan aplikasi shopee,review,human,claude
+1,apa app terburuk,review,ai,gpt
+998,Jokowi memerintahkan Wakil Presiden,news,ai,claude
+768,Jakarta adalah ibu kota Indonesia,news,human,human
+tweet27,serius ini totally pemerintahan prabowo?,sosmed,human,human
+tweet55,jokowi udah selesai jadi presiden,sosmed,ai,gemini
